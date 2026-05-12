@@ -264,9 +264,9 @@ Do not delete this folder unless you want to relogin.
 
 ---
 
-# Hide Records
+# Scan Again
 
-"Hide Records" only clears frontend display.
+"Scan Again" only clears frontend display.
 
 Database remains intact.
 
